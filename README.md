@@ -4,4 +4,6 @@ Article scientifique publié sous le titre : Quel alignement textuel pour l’é
 
 Le répertoire contient le dernier état des fichiers utilisés pour la création du PDF.
 
-Voir les références bibliographiques complètes ici : [https://hal.archives-ouvertes.fr/hal-03413989v1](https://hal.archives-ouvertes.fr/hal-03413989v1)
+Publication originale : [https://doctorales.hypotheses.org/1094](https://doctorales.hypotheses.org/1094)
+HAL : [https://hal.archives-ouvertes.fr/hal-03413989v1](https://hal.archives-ouvertes.fr/hal-03413989v1)
+Code source : https://github.com/comesaignol/ed3Reecrire2021
